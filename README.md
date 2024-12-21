@@ -1,1 +1,1 @@
-# Envio-de-email
+# É necessario ter outlook instalado
